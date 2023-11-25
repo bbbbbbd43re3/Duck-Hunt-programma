@@ -1,0 +1,14 @@
+F:\darbi\spele 30\bin\Debug\spele 30.exe.config
+F:\darbi\spele 30\bin\Debug\spele 30.exe
+F:\darbi\spele 30\bin\Debug\spele 30.pdb
+F:\darbi\spele 30\obj\Debug\spele 30.csproj.AssemblyReference.cache
+F:\darbi\spele 30\obj\Debug\spele_30.Form1.resources
+F:\darbi\spele 30\obj\Debug\spele_30.Properties.Resources.resources
+F:\darbi\spele 30\obj\Debug\spele 30.csproj.GenerateResource.cache
+F:\darbi\spele 30\obj\Debug\spele 30.csproj.CoreCompileInputs.cache
+F:\darbi\spele 30\obj\Debug\spele 30.exe
+F:\darbi\spele 30\obj\Debug\spele 30.pdb
+F:\darbi\spele 30\bin\Debug\spele 30.exe.manifest
+F:\darbi\spele 30\bin\Debug\spele 30.application
+F:\darbi\spele 30\obj\Debug\spele 30.exe.manifest
+F:\darbi\spele 30\obj\Debug\spele 30.application
